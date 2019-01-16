@@ -1,0 +1,1 @@
+Edit "serviceURL": "https://your.sonarr.domain" in package.js to point to your Sonarr domain. Works fine with proxied Sonarr installs. I haven't had a chance to test it on any that need a port other than 80/443.

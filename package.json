@@ -1,0 +1,14 @@
+{
+  "id": "sonarr",
+  "name": "Sonarr",
+  "version": "1.0.0",
+  "description": "Sonarr",
+  "main": "index.js",
+  "author": "moarbytes <moarbytes@gmail.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://your.sonarr.domain",
+    "hasCustomUrl": false,
+    "hasNotificationSound": false
+  }
+}
